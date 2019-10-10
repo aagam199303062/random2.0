@@ -8,5 +8,8 @@ public class Main {
 
         //Concatenation example
         System.out.println(word1 + word2);
+        
+        System.out.println("I KNOW RIGHT !!");
     }
 }
+ 
